@@ -11,4 +11,5 @@ git switch 切り替えたいブランチ名
 ブランチ一覧
 git branch (-r or -a)
 
+い
 
