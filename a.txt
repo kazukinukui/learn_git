@@ -1,3 +1,1 @@
-line 1: Hello, World!
-line 2: bは２行目
-line 3: Have a great day!
+a
